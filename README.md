@@ -18,7 +18,7 @@ machine that performs calculations based on the laws of quantum mechanics, which
 particles at the sub-atomic level.
 
 # Properties of Quantum Computing
-     → <b>Superposition is essentially the ability of a quantum system to be in multiple states at the same time —
+     → Superposition is essentially the ability of a quantum system to be in multiple states at the same time —
        that is, something can be “here” and “there,” or “up” and “down” at the same time.
      → Entanglement is the ability of quantum systems to exhibit correlations between states within a
        superposition.
@@ -27,3 +27,10 @@ particles at the sub-atomic level.
        a speed-up over various classical algorithms.
      → Quantum interference, a byproduct of superposition, is what allows us to bias the measurement of a qubit
        toward a desired state or set of states
+       
+## Google Quantum Computers
+
+# What is Supremacy?  
+In quantum computing, quantum supremacy is the potential ability of devices to solve problems that classical computers practically cannot.
+
+# Google’s process for demonstrating quantum supremacy
