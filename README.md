@@ -9,7 +9,7 @@ Contents-
     5. D-Wave Quantum Computers 
     6. IBM Quantum Computers 
     7. Google Quantum Computers
-## Introduction to Quantum Computing
+![](Images/logic.JPG) 
 
 # What is Quantum Computing?
 The word "quantum", in quantum computer, originates from "quantum mechanics," a basic theory in physics.
@@ -27,10 +27,14 @@ particles at the sub-atomic level.
        a speed-up over various classical algorithms.
      → Quantum interference, a byproduct of superposition, is what allows us to bias the measurement of a qubit
        toward a desired state or set of states
-       
+![](Images/law1.JPG)    
+
+![](Images/law2.JPG)  
 ## Google Quantum Computers
 
 # What is Supremacy?  
 In quantum computing, quantum supremacy is the potential ability of devices to solve problems that classical computers practically cannot.
 
 # Google’s process for demonstrating quantum supremacy
+
+![](Images/g1.JPG) 
